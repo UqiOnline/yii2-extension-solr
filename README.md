@@ -1,7 +1,7 @@
-yii2-solr
+yii2-extension-solr
 =========
 
-A Yii2 Solr Extension built on top of Solarium, and I customized it for my Yii2-base structure
+A Yii2 Solr Extension built on top of Solarium and I customized it for my Yii2-base structure
 
 Essentially this is a Yii2 plugin for Solarium and it is dirt simple to use, all it does is abstract certain parts of Solarium into Yii2.
 
