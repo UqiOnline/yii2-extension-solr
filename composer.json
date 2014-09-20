@@ -1,0 +1,16 @@
+{
+    "name": "yii2-solr",
+    "description": "Solr plugin for the Yii2 framework built ontop of Solarium",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "yii2-extension", "Yii2 Extension", "solr", "solarium"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "dungnv",
+            "email": "dzungnv91@gmail.com"
+        }
+    ],
+    "require": {
+        "solarium/solarium": "*"
+    }
+}
